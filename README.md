@@ -1,2 +1,2 @@
 # Abysprint
-## Protótipo feto com a engine Construct 2, talvez eu faça mudanças em um futuro não tão próximo ╰(*°▽°*)╯(●'◡'●) &#128330
+## Protótipo feto com a engine Construct 2, talvez eu faça mudanças em um futuro não tão próximo ╰(*°▽°*)╯(●'◡'●) 🕊️
